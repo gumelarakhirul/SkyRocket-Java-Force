@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game/out/production/game/game/out/production/game/game/Library/jna-platform-5.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/out/production/game/game/out/production/game/game/Library/jna-5.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/out/production/game/game/out/production/game/game/Library/vlcj-natives-4.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/out/production/game/game/out/production/game/game/Library/vlcj-4.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

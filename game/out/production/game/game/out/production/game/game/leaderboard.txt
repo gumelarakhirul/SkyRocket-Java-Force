@@ -1,0 +1,12 @@
+null,5
+null,1
+null,3
+null,7
+null,7
+null,2
+null,35
+null,20
+null,3
+tapir,0
+tapir,2
+kak,14
